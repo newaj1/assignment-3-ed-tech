@@ -1,5 +1,8 @@
-.carousel-caption {
-    margin-bottom: 200px;
+.slide{
+    display: block;
+}
+.carousel-height img {
+    height: 400px;
 }
 .companies img{
     width: 100px;
